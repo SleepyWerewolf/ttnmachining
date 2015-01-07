@@ -264,6 +264,7 @@ a:hover, a:active{
 .mainContent{
 	line-height:25px;
 	float:left;
+	font:arial;
 
 }
 
@@ -311,6 +312,26 @@ a:hover, a:active{
 	color: #ffffff;
 	text-align:center;	
 }
+
+#home5{
+	float:right;
+	height:380px;
+	width:285px;
+	position:relative;
+	margin-right:150px;
+	top:-370px;
+}
+
+.topcontent h3{
+	padding:3% 5%;
+	margin:0;
+	padding-top:0;
+	padding-bottom:0;
+	margin-bottom:0;
+
+}
+
+
 
 
 /* Services-------------------------------------------------------------------------------------------------------------*/
